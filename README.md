@@ -9,7 +9,7 @@ Case 1 Payload
 
 Case 2 Payload
 
-    --!><script>alert(1)</script>
+    --><script>alert(1)</script>
 
 Case 3 Payload
 
