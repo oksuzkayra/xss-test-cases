@@ -15,4 +15,10 @@ Case 3 Payload
 
     javascript:alert(1);
 
+Case 4 Payload
 
+    <script>alert(1)</script>
+
+Case 5 Payload
+
+    javascript:alalertert(1);
